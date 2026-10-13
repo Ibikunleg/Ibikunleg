@@ -5,6 +5,8 @@ I am a data science professional with a keen interest in data science, data anal
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
 - Database administration with SQL
+- Python Programming
+- R Programming
 - Machine Learning
 - Deep Learning
 - Explainable AI
@@ -15,6 +17,8 @@ Here are my key skills and competencies
 - Financial modeling
 - Git
 - DevOP
+- Duckdb
+- Metabase
 - MLOP
 - Google Cloud Platform (GCP)
 - Streamlit
