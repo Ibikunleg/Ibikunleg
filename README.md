@@ -14,6 +14,12 @@ Here are my key skills and competencies
 - Qualitative data analysis
 - Financial modeling
 - Git
+- DevOP
+- MLOP
+- Google Cloud Platform (GCP)
+- Streamlit
+- Docker
+- Kubernetes
 - Time series forecasting
 - PL-SEM
 - Markdown
