@@ -15,7 +15,7 @@ Here are my key skills and competencies
 - Dashboard and report creation 
 - Qualitative data analysis
 - Financial modeling
-- Git
+- Git & GitHub
 - DevOP
 - Duckdb
 - Metabase
