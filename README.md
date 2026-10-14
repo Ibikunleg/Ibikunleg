@@ -16,11 +16,13 @@ Here are my key skills and competencies
 - Qualitative data analysis
 - Financial modeling
 - Git & GitHub
+- Taguette 
 - DevOP
 - Duckdb
 - Metabase
 - MLOP
 - Google Cloud Platform (GCP)
+- Grafana
 - Streamlit
 - Docker
 - Kubernetes
