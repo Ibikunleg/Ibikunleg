@@ -23,6 +23,7 @@ Here are my key skills and competencies
 - MLOP
 - Google Cloud Platform (GCP)
 - Grafana
+- Prometheus
 - Streamlit
 - Docker
 - Kubernetes
