@@ -7,6 +7,7 @@ Here are my key skills and competencies
 - Database administration with SQL
 - Python Programming
 - R Programming
+- Data analysis with Eviews, Stata and SPSS
 - Machine Learning
 - Deep Learning
 - Explainable AI
