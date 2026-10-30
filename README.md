@@ -96,9 +96,9 @@ Here are the data science and data analytics tools I use efficiently
 
 <div align="center"> 
 <!-- This is a comment: GitHub Stats -->
-   [![](https://ghstats.dev/api/card?username=ibikunleg&theme=ocean)](https://github.com/rowkavdev/GitHub-profile-stats)
+  
+  [![](https://ghstats.dev/api/card?username=ibikunleg&theme=ocean)](https://github.com/rowkavdev/GitHub-profile-stats)
    
-
 <!--[![](https://ghstats.dev/api/card?username=ibikunleg&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
 
 [![](https://ghstats.dev/api/card?username=ibikunleg&theme=ocean&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
